@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98755bb3-eb2a-42bb-bab6-824111dd6d5c" name="Changes" comment="jjm">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-    </list>
+    <list default="true" id="98755bb3-eb2a-42bb-bab6-824111dd6d5c" name="Changes" comment="jjmss" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +79,7 @@
       <updated>1744059372514</updated>
       <workItem from="1744059373676" duration="407000" />
       <workItem from="1744059875745" duration="891000" />
-      <workItem from="1744060781364" duration="782000" />
+      <workItem from="1744060781364" duration="1316000" />
     </task>
     <task id="LOCAL-00001" summary="jj">
       <option name="closed" value="true" />
@@ -107,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744061485677</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jjmss">
+      <option name="closed" value="true" />
+      <created>1744061576323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744061576323</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jj" />
     <MESSAGE value="jjm" />
-    <option name="LAST_COMMIT_MESSAGE" value="jjm" />
+    <MESSAGE value="jjmss" />
+    <option name="LAST_COMMIT_MESSAGE" value="jjmss" />
   </component>
 </project>
